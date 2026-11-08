@@ -39,6 +39,8 @@ Tema proyek kolaboratif yang diambil adalah pengembangan website layanan laundry
 
 - Dimas Surya Lesmana
 - Moch. Revan Eka Permana
+- Muhamad Ilham
+- Teguh Putra
 
 ---
 
